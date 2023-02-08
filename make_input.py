@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 #example extract coordinates Molecule + create input for every frame in the current directory
-## by Federica Ferraro, federica.ferraro@fau.de
+# by Federica Ferraro, federica.ferraro@fau.de
 
 import re,sys,os
 
